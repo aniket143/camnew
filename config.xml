@@ -16,5 +16,10 @@
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
         Christophe Coenraets
     </author>
+    
+    <feature name="Camera">
+    <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+</feature>
+
 
 </widget>
